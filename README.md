@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JSmit063!
 - 👀 I’m interested in learning more about programming languages such as Python, C++, and JavaScript.
 - 🌱 I’m currently learning C++ in my first semester with this new language. 
-- 💞️ I’m looking to collaborate on different projects as I learn the fundementals of C++. I am working on completing my degree in programming
--     to work towards a career change.
+- 💞️ I’m looking to collaborate on different projects as I learn the fundementals of C++. I am working on completing my degree in programming.
 - 📫 I am best reached by email at smithj359@macomb.edu.
 
 <!---
